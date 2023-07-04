@@ -2,7 +2,7 @@
 
 The page aims to compile a list of awesome resources about language agents, an emerging direction in both research and industry.
 
-Adding new materials...
+Adding new materials, happy discussions in issues, and suggestions in pull requests!
 
 ## Blogposts
 - A good technical overview: [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
