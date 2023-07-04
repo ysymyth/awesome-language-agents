@@ -17,4 +17,6 @@ TBA
 ## Github Projects
 TBA
 
+## Others
 
+- [Depth first search with open source LLMs in Replit](https://replit.com/@LouisBeaumont1/Depth-first-search-with-open-source-LLMs?v=1)
