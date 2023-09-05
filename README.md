@@ -4,7 +4,7 @@ The page aims to compile a list of awesome resources about language agents, an e
 
 Adding new materials. Please contribute to discussions in issues, and suggestions in pull requests!
 
-(Goal: complete an inital version by August 2023!)
+(Goal: complete an inital version by Sept 6 2023!)
 
 ## Blogposts
 - **Technical overview**: [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
