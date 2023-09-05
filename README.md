@@ -1,34 +1,30 @@
-# awesome-language-agents
+# Awesome Language Agents via 🐨[CoALA]()
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/hyp1231/awesome-llm-powered-agent/pulls)
 
-The page aims to compile a list of awesome resources about language agents, an emerging direction in both research and industry.
+A compilation of language agents using the 🐨**Cognitive Architectures for Language Agents (CoALA)** framework. 
 
-Adding new materials. Please contribute to discussions in issues, and suggestions in pull requests!
+If you found our resources useful, please consider citing our [paper]():
 
-(Goal: complete an inital version by Sept 6 2023!)
+```bibtex
+@misc{sumers2023cognitive,
+      title={Cognitive Architectures for Language Agents}, 
+      author={Theodore Sumers and Shunyu Yao and Karthik Narasimhan and Thomas L. Griffiths},
+      year={2023},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
-## Blogposts
-- **Technical overview**: [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- **Impact overview**: [Language Agents in the Digital World: Opportunities and Risks (Princeton NLP)](https://princeton-nlp.github.io/language-agent-impact/)
-- [Prompt injection: What’s the worst that can happen? (Simon Willison’s Weblog)](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
-- [Autonomous Agents & Agent Simulations (LangChain)](https://blog.langchain.dev/agents-round/)
-- [Meta-Prompt: A Simple Self-Improving Language Agent (Noah Goodman)](https://noahgoodman.substack.com/p/meta-prompt-a-simple-self-improving)
+## Overview of the CoALA Framework
 
- 
-## Papers
+## Recommended Reading of Language Agents
 
-### Grounding
-- Interact with APIs: [Toolsformer](https://arxiv.org/abs/2302.04761)
-- Interact with other agents:
-- Interact with physical world:
-- 
-### Learning
-
-### Decision Making
+## Recent papers
 
 
-## Projects
-TBA
+## Related resources
+* [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
+* [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
+* [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
 
-
-## Companies
-TBA
