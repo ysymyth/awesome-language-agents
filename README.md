@@ -34,13 +34,29 @@ Then how does a language agent choose which action to take? Its actions are stru
 
 To understand more, read Section 4 of our [paper](https://arxiv.org/abs/2309.02427).
 
-## Language Agent Papers
+## Method Papers
+We categorize method papers based on whether they mainly focus on interaction with the external world (grounding), working memory (reasoning), or long-term memory (learning/retrieval).
+### Grounding (Interaction with External World)
+#### Digital Interaction
+API tools:
+* [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) (Feb 2023)
+#### Physical Interaction
+#### Human Interaction
+#### Multi-agent Interaction
+
+### Reasoning (Interaction with Working Memory)
+
+### Learning/Retrieval (Interaction with Long-term Memory)
 (to be added soon. pull request welcome.)
 
+## Benchmark Papers
+(to be added soon. pull request welcome.)
 
-## Language Agent Resources
+## Survey/Position Papers & Blogposts
+(to be added soon. pull request welcome.)
+
+## Related Repos
 * [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
-
 (more to be added soon. pull request welcome.)
