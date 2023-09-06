@@ -4,7 +4,20 @@
 ![teaser](CoALA.png)
 
 
-A compilation of language agents using the 🐨[Cognitive Architectures for Language Agents (CoALA)](https://arxiv.org/abs/2309.02427) framework. 
+A compilation of language agents using the **Cognitive Architectures for Language Agents (🐨CoALA)** framework. 
+- CoLLA Paper: https://arxiv.org/abs/2309.02427
+- CoLLA BibTex file with 300+ related citations: [CoALA.bib](CoALA.bib)
+- CoLLA BibTex citation if you find our work/resources useful:
+```bibtex
+@misc{sumers2023cognitive,
+      title={Cognitive Architectures for Language Agents}, 
+      author={Theodore Sumers and Shunyu Yao and Karthik Narasimhan and Thomas L. Griffiths},
+      year={2023},
+      eprint={2309.02427},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
 ## 🐨CoALA Overview
 CoLLA neatly specifies a langauge agent starting with its **action space**, which has 2 parts:
@@ -22,25 +35,12 @@ Then how does a language agent choose which action to take? Its actions are stru
 To understand more, read Section 4 of our [paper](https://arxiv.org/abs/2309.02427).
 
 ## Language Agent Papers
-(to be added soon.)
+(to be added soon. pull request welcome.)
 
 
 ## Language Agent Resources
 * [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
-(more to be added soon.)
 
-## Citations
-If you find our resources useful, please consider citing our paper:
-
-```bibtex
-@misc{sumers2023cognitive,
-      title={Cognitive Architectures for Language Agents}, 
-      author={Theodore Sumers and Shunyu Yao and Karthik Narasimhan and Thomas L. Griffiths},
-      year={2023},
-      eprint={2309.02427},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
+(more to be added soon. pull request welcome.)
