@@ -21,7 +21,6 @@ A compilation of language agents using the **Cognitive Architectures for Languag
 ```
 
 ## 🐨CoALA Overview
-![action_space](action_space.png)
 CoLLA neatly specifies a langauge agent starting with its **action space**, which has 2 parts:
 * External actions to interact with external environments (**grounding**)
 * Internal actions to interact with internal memories (**reasoning**, **retrieval**, **learning**)
@@ -29,12 +28,13 @@ CoLLA neatly specifies a langauge agent starting with its **action space**, whic
   * **Reasoning** = update working memory (with LLM)
   * **Retrieval** = read long-term memory
   * **Learning** = write long-term memory
+![action_space](action_space.png)
 
-![decision_making](decision_making.png)
 
 Then how does a language agent choose which action to take? Its actions are structured into **decision making** cycles, and each cycle has two stages:
 * **Planning**: The agent applies reasoning/retrieval actions to (iteratively) propose and evaluate actions, then select a learning/grounding action.
 * **Execution**: The selected learning/grounding action is executed to affect the internal memory or external world.
+![decision_making](decision_making.png)
 
 To understand more, read Section 4 of our [paper](https://arxiv.org/abs/2309.02427).
 
