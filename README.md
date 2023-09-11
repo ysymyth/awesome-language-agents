@@ -21,7 +21,7 @@ A compilation of language agents using the **Cognitive Architectures for Languag
 ```
 
 ## 🐨CoALA Overview
-CoLLA neatly specifies a langauge agent starting with its **action space**, which has 2 parts:
+CoLLA neatly specifies a language agent starting with its **action space**, which has 2 parts:
 * External actions to interact with external environments (**grounding**)
 * Internal actions to interact with internal memories (**reasoning**, **retrieval**, **learning**)
   * A language agent has a short-term working memory and several (optional) long-term memories (episodic for experience, semantic for knowledge, procedural for code/LLM)
