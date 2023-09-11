@@ -96,6 +96,7 @@ Note: Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib), with
 * (2023-08) [CGMI: Configurable General Multi-Agent Interaction Framework](http://arxiv.org/abs/2308.12503) (grounding, reasoning)
 * (2023-08) [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](http://arxiv.org/abs/2308.07201) (grounding, reasoning)
 * (2023-08) [Cumulative Reasoning with Large Language Models](http://arxiv.org/abs/2308.04371) (reasoning)
+* (2023-08) [ExpeL: LLM Agents Are Experiential Learners](https://arxiv.org/abs/2308.10144) (grounding, reasoning, retrieval, learning)
 * (2023-08) [GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems](http://arxiv.org/abs/2308.10435) (grounding, reasoning)
 * (2023-08) [Gentopia: A Collaborative Platform for Tool-Augmented LLMs](http://arxiv.org/abs/2308.04030) (environment)
 * (2023-08) [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](http://arxiv.org/abs/2308.00352) (grounding, reasoning)
