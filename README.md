@@ -112,5 +112,5 @@ Note: Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib), with
 * [LLM Powered Autonomous Agents (Lil’Log)](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
-
+* [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
 (more to be added soon. pull request welcome.)
