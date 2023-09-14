@@ -68,6 +68,7 @@ Note: Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib), with
 * (2023-04) [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](http://arxiv.org/abs/2304.11477) (grounding, reasoning)
 * (2023-04) [REFINER: Reasoning Feedback on Intermediate Representations](http://arxiv.org/abs/2304.01904) (reasoning)
 * (2023-04) [Teaching Large Language Models to Self-Debug](http://arxiv.org/abs/2304.05128) (reasoning)
+* (2023-04) [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information](https://arxiv.org/abs/2304.09667) (grounding, reasoning)
 * (2023-05) [Augmenting Autotelic Agents with Large Language Models](http://arxiv.org/abs/2305.12487) (grounding, reasoning, retrieval, learning)
 * (2023-05) [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models](http://arxiv.org/abs/2305.14323) (grounding, reasoning)
 * (2023-05) [Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding](http://arxiv.org/abs/2305.00633) (reasoning)
