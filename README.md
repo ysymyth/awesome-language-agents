@@ -39,7 +39,8 @@ Then how does a language agent choose which action to take? Its actions are stru
 To understand more, read Section 4 of our [paper](https://arxiv.org/abs/2309.02427).
 
 ## Papers
-Note: Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib), with potentially incorrect action space labels. Date is based on arxiv v1. They do not represent all language agent work, and we plan to add more work soon (pull requests welcome), and have labels for highly cited work.
+Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib) plus pulled requests, with potentially incorrect action space labels. 
+Date is based on arxiv v1. They do not represent all language agent work, and we plan to add more work soon (pull requests welcome), and have labels for highly cited work.
 
 * (2021-10) [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](http://arxiv.org/abs/2110.01691) (reasoning)
 * (2021-10) [SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark](http://arxiv.org/abs/2110.10661) (environment)
@@ -114,4 +115,5 @@ Note: Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib), with
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
 * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
+  
 (more to be added soon. pull request welcome.)
