@@ -65,6 +65,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-03) [Reflexion: Language Agents with Verbal Reinforcement Learning](http://arxiv.org/abs/2303.11366) (grounding, reasoning, learning)
 * (2023-03) [Self-Refine: Iterative Refinement with Self-Feedback](http://arxiv.org/abs/2303.17651) (reasoning)
 * (2023-03) [Self-planning Code Generation with Large Language Models](http://arxiv.org/abs/2303.06689) (reasoning)
+* (2023-04) [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) (grounding, reasoning, retrieval, learning)
 * (2023-04) [Emergent autonomous scientific research capabilities of large language models](http://arxiv.org/abs/2304.05332) (grounding, reasoning)
 * (2023-04) [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](http://arxiv.org/abs/2304.11477) (grounding, reasoning)
 * (2023-04) [REFINER: Reasoning Feedback on Intermediate Representations](http://arxiv.org/abs/2304.01904) (reasoning)
