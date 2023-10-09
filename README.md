@@ -5,10 +5,10 @@
 
 
 A compilation of language agents using the **Cognitive Architectures for Language Agents (🐨CoALA)** framework. 
-- CoLLA Paper (16 pages of main content): https://arxiv.org/abs/2309.02427
-- CoLLA Tweet (6 threads): https://twitter.com/ShunyuYao12/status/1699396834983362690
-- CoLLA BibTex file with 300+ related citations: [CoALA.bib](CoALA.bib)
-- CoLLA BibTex citation if you find our work/resources useful:
+- CoALA Paper (16 pages of main content): https://arxiv.org/abs/2309.02427
+- CoALA Tweet (6 threads): https://twitter.com/ShunyuYao12/status/1699396834983362690
+- CoALA BibTex file with 300+ related citations: [CoALA.bib](CoALA.bib)
+- CoALA BibTex citation if you find our work/resources useful:
 ```bibtex
 @misc{sumers2023cognitive,
       title={Cognitive Architectures for Language Agents}, 
@@ -21,7 +21,7 @@ A compilation of language agents using the **Cognitive Architectures for Languag
 ```
 
 ## 🐨CoALA Overview
-CoLLA neatly specifies a language agent starting with its **action space**, which has 2 parts:
+CoALA neatly specifies a language agent starting with its **action space**, which has 2 parts:
 * External actions to interact with external environments (**grounding**)
 * Internal actions to interact with internal memories (**reasoning**, **retrieval**, **learning**)
   * A language agent has a short-term working memory and several (optional) long-term memories (episodic for experience, semantic for knowledge, procedural for code/LLM)
