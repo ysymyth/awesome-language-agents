@@ -71,6 +71,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-04) [REFINER: Reasoning Feedback on Intermediate Representations](http://arxiv.org/abs/2304.01904) (reasoning)
 * (2023-04) [Teaching Large Language Models to Self-Debug](http://arxiv.org/abs/2304.05128) (reasoning)
 * (2023-04) [GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information](https://arxiv.org/abs/2304.09667) (grounding, reasoning)
+* (2023-05) [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/pdf/2305.11738.pdf) (grounding, reasoning, retrieval)
 * (2023-05) [Augmenting Autotelic Agents with Large Language Models](http://arxiv.org/abs/2305.12487) (grounding, reasoning, retrieval, learning)
 * (2023-05) [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models](http://arxiv.org/abs/2305.14323) (grounding, reasoning)
 * (2023-05) [Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding](http://arxiv.org/abs/2305.00633) (reasoning)
@@ -108,6 +109,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-08) [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization](http://arxiv.org/abs/2308.02151) (grounding, reasoning, learning)
 * (2023-08) [SAPIEN: Affective Virtual Agents Powered by Large Language Models](http://arxiv.org/abs/2308.03022) (grounding, reasoning)
 * (2023-08) [Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis](http://arxiv.org/abs/2308.09830) (grounding, reasoning, retrieval, learning)
+* (2023-09) [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452) (grounding, reasoning, learning)
 
 (more to be added soon. pull request welcome.)
 
