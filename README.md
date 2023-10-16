@@ -108,6 +108,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-08) [Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization](http://arxiv.org/abs/2308.02151) (grounding, reasoning, learning)
 * (2023-08) [SAPIEN: Affective Virtual Agents Powered by Large Language Models](http://arxiv.org/abs/2308.03022) (grounding, reasoning)
 * (2023-08) [Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis](http://arxiv.org/abs/2308.09830) (grounding, reasoning, retrieval, learning)
+* (2023-09) [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) (environment)
 
 (more to be added soon. pull request welcome.)
 
