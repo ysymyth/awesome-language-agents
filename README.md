@@ -56,7 +56,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2022-10) [ReAct: Synergizing Reasoning and Acting in Language Models](http://arxiv.org/abs/2210.03629) (grounding, reasoning)
 * (2022-11) [Large Language Models Are Human-Level Prompt Engineers](http://arxiv.org/abs/2211.01910) (reasoning)
 * (2022-12) [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088) (grounding)
-* (2022012) [Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270/) (grounding)
+* (2022-12) [Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments](https://aclanthology.org/2023.acl-long.270/) (grounding)
 * (2023-02) [Chain of Hindsight Aligns Language Models with Feedback](http://arxiv.org/abs/2302.02676v6) (learning)
 * (2023-02) [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](http://arxiv.org/abs/2302.01560) (grounding, reasoning)
 * (2023-02) [Toolformer: Language Models Can Teach Themselves to Use Tools](http://arxiv.org/abs/2302.04761) (grounding)
