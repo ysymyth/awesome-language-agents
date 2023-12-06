@@ -112,7 +112,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-08) [Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis](http://arxiv.org/abs/2308.09830) (grounding, reasoning, retrieval, learning)
 * (2023-09) [ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving](https://arxiv.org/abs/2309.17452) (grounding, reasoning, learning)
 * (2023-09) [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) (environment)
-* (2023-09) [Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4]([https://arxiv.org/abs/2309.15817](http://arxiv.org/abs/2309.17277)) (grounding, reasoning)
+* (2023-09) [Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4](http://arxiv.org/abs/2309.17277) (grounding, reasoning)
 
 (more to be added soon. pull request welcome.)
 
