@@ -75,6 +75,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-05) [CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing](https://arxiv.org/pdf/2305.11738.pdf) (grounding, reasoning, retrieval)
 * (2023-05) [Augmenting Autotelic Agents with Large Language Models](http://arxiv.org/abs/2305.12487) (grounding, reasoning, retrieval, learning)
 * (2023-05) [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models](http://arxiv.org/abs/2305.14323) (grounding, reasoning)
+* (2023-05) [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://arxiv.org/abs/2305.11554) (grounding, reasoning)
 * (2023-05) [Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding](http://arxiv.org/abs/2305.00633) (reasoning)
 * (2023-05) [Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate](http://arxiv.org/abs/2305.19118) (grounding, reasoning)
 * (2023-05) [Improving Factuality and Reasoning in Language Models through Multiagent Debate](http://arxiv.org/abs/2305.14325) (grounding, reasoning)
