@@ -117,6 +117,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2023-09) [Identifying the Risks of LM Agents with an LM-Emulated Sandbox](https://arxiv.org/abs/2309.15817) (environment)
 * (2023-09) [Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4](http://arxiv.org/abs/2309.17277) (grounding, reasoning)
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
+* (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
 
 (more to be added soon. pull request welcome.)
 
