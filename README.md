@@ -121,6 +121,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2024-03) [LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.](https://arxiv.org/abs/2403.11552) (planning, reasoning)
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
 * (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
+* (2024-07) [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (environment, planning, grounding, reflection, reasoning, retrieval)
 
 
 (more to be added soon. pull request welcome.)
