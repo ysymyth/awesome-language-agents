@@ -133,3 +133,5 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
   
 (more to be added soon. pull request welcome.)
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails (APPROVED/REJECTED/ESCALATE), smart contract audit. Production since Jan 2026. [GitHub](https://github.com/odei-ai/web)
