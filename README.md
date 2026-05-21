@@ -121,6 +121,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2024-03) [LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.](https://arxiv.org/abs/2403.11552) (planning, reasoning)
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
 * (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
+* (2026-05) [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) (environment, grounding, evaluation) — Live-website browser-agent benchmark; 283 tasks across 163 live platforms; two-stage scoring (HTTP-request interception + LLM judge on payload). [code](https://github.com/reacher-z/ClawBench) [site](https://claw-bench.com)
 * (2024-07) [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (environment, planning, grounding, reflection, reasoning, retrieval)
 
 
