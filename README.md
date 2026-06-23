@@ -122,6 +122,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
 * (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
 * (2024-07) [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (environment, planning, grounding, reflection, reasoning, retrieval)
+* (2026-03) [Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime](https://www.preprints.org/manuscript/202603.1756/v2) (survey, grounding)
 
 
 (more to be added soon. pull request welcome.)
