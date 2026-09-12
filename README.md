@@ -43,6 +43,7 @@ Below is only a subset of papers scraped from [CoALA.bib](CoALA.bib) plus pulled
 Date is based on arxiv v1. They do not represent all language agent work, and we plan to add more work soon (pull requests welcome), and have labels for highly cited work.
 
 * (2021-10) [AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts](http://arxiv.org/abs/2110.01691) (reasoning)
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 * (2021-10) [SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark](http://arxiv.org/abs/2110.10661) (environment)
 * (2022-01) [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](http://arxiv.org/abs/2201.07207) (grounding)
 * (2022-03) [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](http://arxiv.org/abs/2203.06566) (grounding)
