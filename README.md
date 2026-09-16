@@ -131,5 +131,6 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
 * [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers)
 * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
   
 (more to be added soon. pull request welcome.)
