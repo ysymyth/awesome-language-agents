@@ -122,7 +122,7 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
 * (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
 * (2024-07) [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (environment, planning, grounding, reflection, reasoning, retrieval)
-* (2026-06) [SEATauBench: Progressively Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://aclanthology.org/2026.findings-emnlp.502/) (environment, multilingual tool-agent-user evaluation) — Findings of EMNLP 2026; the first agent-focused evaluation framework for SEA sovereign AI.
+* (2026-06) [SEATauBench: Progressively Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://aclanthology.org/2026.findings-emnlp.502/) (environment, multilingual, tool-agent-user).
 
 
 (more to be added soon. pull request welcome.)
