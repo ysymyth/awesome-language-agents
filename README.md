@@ -121,8 +121,16 @@ Date is based on arxiv v1. They do not represent all language agent work, and we
 * (2024-03) [LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.](https://arxiv.org/abs/2403.11552) (planning, reasoning)
 * (2024-04) [Empowering Biomedical Discovery with AI Agents](https://arxiv.org/abs/2404.02831) (AI scientist, biomedical research)
 * (2024-05) [TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models](https://arxiv.org/abs/2405.18027) (reasoning, retrieval)
+* (2024-06) [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/abs/2406.12045) (environment, tool-agent-user)
 * (2024-07) [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) (environment, planning, grounding, reflection, reasoning, retrieval)
-* (2026-06) [SEATauBench: Progressively Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://aclanthology.org/2026.findings-emnlp.502/) (environment, multilingual, tool-agent-user).
+* (2025-06) [τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment](https://arxiv.org/abs/2506.07982) (environment, tool-agent-user, coordination)
+* (2025-11) [SABER: Small Actions, Big Errors — Safeguarding Mutating Steps in LLM Agents](https://arxiv.org/abs/2512.07850) (environment, reasoning, reflection)
+* (2026-03) [τ-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge](https://arxiv.org/abs/2603.04370) (environment, retrieval, tool-agent-user)
+* (2026-03) [τ-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains](https://arxiv.org/abs/2603.13686) (environment, voice, tool-agent-user)
+* (2026-06) [SEATauBench: Progressively Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://aclanthology.org/2026.findings-emnlp.502/) (environment, multilingual, tool-agent-user)
+* (2026-09) [τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction](https://arxiv.org/abs/2609.04611) (environment, agent-construction)
+* (2026-09) [τ-Elicitation: Benchmarking multi-turn entity extraction in voice agents](https://arxiv.org/abs/2609.13602) (environment, voice, entity-extraction)
+* (2026-09) [τ-Multilingual: Benchmarking Voice Agents Across Languages](https://arxiv.org/abs/2609.35820) (environment, voice, multilingual, tool-agent-user)
 
 
 (more to be added soon. pull request welcome.)
